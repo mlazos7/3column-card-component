@@ -15,7 +15,7 @@ Your users should be able to:
 ### Links
 
 
-- Live Site URL: [Demo](https://mlazos7.github.io/card-cars/)
+- Live Site URL: [Demo](https://mlazos7.github.io/3column-card-component/)
 
 
 ### Built with
