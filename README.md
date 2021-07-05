@@ -15,7 +15,7 @@ Your users should be able to:
 ### Links
 
 
-- Live Site URL: [Demo](https://mlazos7.github.io/)
+- Live Site URL: [Demo](https://mlazos7.github.io/card-cars/)
 
 
 ### Built with
